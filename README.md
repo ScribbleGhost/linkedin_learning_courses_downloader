@@ -1,5 +1,10 @@
 # Linkedin Learning Courses Downloader ☄️☄️☄️
 
+## Requirements
+
+- Python 2 (not compatible with Python 3)
+- [requests](https://2.python-requests.org/en/master/) and [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
+
 ###### v0.2: now works without webdriver
 
 A simple python scraper tool that downloads video lessons from Linkedin Learning
